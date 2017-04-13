@@ -1,4 +1,3 @@
-#Developed by Anant, Narra and Shreyas
 #Program for finding square root of a number
 import sys
 
