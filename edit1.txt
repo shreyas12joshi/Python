@@ -1,8 +1,7 @@
 this is test edit 1
 this is test edit 2
-<<<<<<< HEAD
+
 this is test edit 3
-=======
+this is test edit 3.5
 
 this is test edit 4
->>>>>>> 57732bd648bbc4465cee35f4f3aa9d17e32b8021
