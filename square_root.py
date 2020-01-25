@@ -21,7 +21,7 @@ def square_root():
         print 'Enter the number'
         Num = int(raw_input())
         if Num < 1:
-            print 'Error detected'
+            print 'Wrong input'
             sys.exit()
         num_square = square(Num)
 
