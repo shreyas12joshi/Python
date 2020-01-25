@@ -21,7 +21,7 @@ def square_root():
         print 'Enter the number'
         Num = int(raw_input())
         if Num < 1:
-            print 'Chutiya detected'
+            print 'Error detected'
             sys.exit()
         num_square = square(Num)
 
